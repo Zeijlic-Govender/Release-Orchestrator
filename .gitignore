@@ -8,3 +8,10 @@ dist/
 build/
 .idea/
 .vscode/
+
+# Media files
+*.mp4
+*.mov
+*.avi
+frontend/logo.jpg
+frontend/logo_palindrome.mp4
